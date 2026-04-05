@@ -1,0 +1,12 @@
+# Entorno virtual y Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Logs y Datos (Solo subiremos los esquemas, no los datos personales)
+logs/*.json
+memory/database.db
+
+# Otros
+.DS_Store
